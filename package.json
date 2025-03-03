@@ -5,7 +5,7 @@
   "dependencies": {
     "alpinejs": "^3.14.7",
     "tailwindcss": "^3.4.16",
-    "axios": "^1.7.9",
+    "axios": "^1.8.1",
     "websocket": "^1.0.34"
   },
   "devDependencies": {

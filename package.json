@@ -9,8 +9,8 @@
     "websocket": "^1.0.34"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
-    "autoprefixer": "^10.4.0",
     "eslint": "^9.22.0"
   },
   "scripts": {
